@@ -23,7 +23,7 @@ This guide will walk you through the setup process for running the Pet Shop dece
 1. Clone this repository to your local machine:
 
  ```bash
- git clone https://github.com/your-username/pet-shop.giNavigate to the cloned repository:
+ git clone https://github.com/LuyuanJimmyWang/pet-shop.giNavigate to the cloned repository:
  ```
 
 2. Navigate to the cloned repository:
