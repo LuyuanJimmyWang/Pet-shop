@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": "3",
+    "breed": "Scottish Terrier",
+    "location": "Toronto, ON",
+    "vote": 30
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": "3",
+    "breed": "Scottish Terrier",
+    "location": "Richmond, BC",
+    "vote":15
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/french-bulldog.jpeg",
+    "age": "2",
+    "breed": "French Bulldog",
+    "location": "Montreal, QC",
+    "vote":25
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/boxer.jpeg",
+    "age": "2",
+    "breed": "Boxer",
+    "location": "Markham, ON",
+    "vote":13
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/french-bulldog.jpeg",
+    "age": "2",
+    "breed": "French Bulldog",
+    "location": "Waterloo, ON",
+    "vote":27
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/french-bulldog.jpeg",
+    "age": "3",
+    "breed": "French Bulldog",
+    "location": "Vancouver, BC",
+    "vote":36
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
+    "age": "3",
+    "breed": "Golden Retriever",
+    "location": "Quebec City, QC",
+    "vote":33
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/golden-retriever.jpeg",
+    "age": "3",
+    "breed": "Golden Retriever",
+    "location": "Calgary, AB",
+    "vote":55
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/french-bulldog.jpeg",
+    "age": "2",
+    "breed": "French Bulldog",
+    "location": "London, ON",
+    "vote":67
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/boxer.jpeg",
+    "age": "3",
+    "breed": "Boxer",
+    "location": "North York, ON",
+    "vote":17
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/boxer.jpeg",
+    "age": "2",
+    "breed": "Boxer",
+    "location": "Halifax, NS",
+    "vote":11
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": "3",
+    "breed": "Scottish Terrier",
+    "location": "Winnipeg, MB",
+    "vote":1
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/french-bulldog.jpeg",
+    "age": "3",
+    "breed": "French Bulldog",
+    "location": "Toronto, ON",
+    "vote":33
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/golden-retriever.jpeg",
+    "age": "4+",
+    "breed": "Golden Retriever",
+    "location": "Toronto, ON",
+    "vote":23
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/golden-retriever.jpeg",
+    "age": "2",
+    "breed": "Golden Retriever",
+    "location": "Toronto, ON",
+    "vote":11
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/golden-retriever.jpeg",
+    "age": "4+",
+    "breed": "Golden Retriever",
+    "location": "Waterloo, ON",
+    "vote":10
+  }
+]
